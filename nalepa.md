@@ -31,6 +31,4 @@ The title of Monika's talk is "Purges, Truth Commissions, and Lustrations: The L
    
 </details>
 
-<a href=https://polisci.wustl.edu/files/polisci/imce/nalepawashu.pdf>
-     Full Text
-</a>
+[https://polisci.wustl.edu/files/polisci/imce/nalepawashu.pdf](Full Text)
