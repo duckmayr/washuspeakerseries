@@ -9,3 +9,5 @@ About once per week, we host a speaker during the lunch hour (a buffet-style lun
 [September 14, 2017 -- Monika Nalepa (University of Chicago)](nalepa.md)
 
 [September 28, 2017 -- Emilie Hafner-Burton (UCSD)](hafnerburton.md)
+
+[October 5, 2017 -- Byron D'Andra Orey (Jackon State)](orey.md)
