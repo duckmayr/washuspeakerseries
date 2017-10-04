@@ -1,22 +1,8 @@
 ---
 ---
 
-.page-header {
-  color: #a51417;
-  text-align: center;
-  background-color: #c8c8c8;
-
-  @include large {
-    padding: 5rem 6rem;
-  }
-
-  @include medium {
-    padding: 3rem 4rem;
-  }
-
-  @include small {
-    padding: 2rem 1rem;
-  }
-}
+$header-heading-color: #a51417;
+$header-bg-color: #c8c8c8;
+$header-bg-color-secondary: #c8c8c8;
 
 @import "{{ site.theme }}";
