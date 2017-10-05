@@ -16,3 +16,7 @@ We conceptualize adverse interactions between police and the minority communitie
 </details>
 
 [Full Text](https://polisci.wustl.edu/files/polisci/imce/oreybaumgartnersoroka-apsa-2017.pdf)
+
+----
+
+[Speaker Series Home](https://duckmayr.github.io/washuspeakerseries/)
