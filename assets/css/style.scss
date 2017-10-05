@@ -6,8 +6,6 @@ $header-bg-color: rgba(216, 210, 197, 0.25);
 $header-bg-color-secondary: rgba(216, 210, 197, 0.25);
 $section-headings-color: #007360;
 
-@import "{{ site.theme }}";
-
 .header-site {
   color: $header-heading-color;
   text-align: center;
@@ -16,3 +14,5 @@ $section-headings-color: #007360;
   background-position: left;
   background-repeat: no-repeat;
 }
+
+@import "{{ site.theme }}";
