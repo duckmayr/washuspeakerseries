@@ -6,13 +6,13 @@ $header-bg-color: rgba(216, 210, 197, 0.25);
 $header-bg-color-secondary: rgba(216, 210, 197, 0.25);
 $section-headings-color: #007360;
 
+@import "{{ site.theme }}";
+
 .page-header {
   color: $header-heading-color;
   text-align: center;
   background-color: $header-bg-color;
-  background-image: url({{ site.url }}/assets/logo.png);
+  background-image: linear-gradient(to bottom, #1e6bb8, #fff);
   background-position: left;
   background-repeat: no-repeat;
 }
-
-@import "{{ site.theme }}";
