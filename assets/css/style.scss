@@ -5,6 +5,7 @@ $header-heading-color: #a51417;
 $header-bg-color: rgba(216, 210, 197, 0.25);
 $header-bg-color-secondary: rgba(216, 210, 197, 0.25);
 $section-headings-color: #007360;
+$body-link-color: #172752;
 
 @import "{{ site.theme }}";
 
@@ -16,11 +17,4 @@ $section-headings-color: #007360;
   background-position: 5%, 95%;
   background-repeat: no-repeat, no-repeat;
   background-size: 8%, 8%;
-}
-
-.content-wrapper {
-    z-index: 800;
-    width: 80%;
-    max-width: 1000px;
-    margin-left: 10%;
 }
