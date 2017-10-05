@@ -17,3 +17,10 @@ $section-headings-color: #007360;
   background-repeat: no-repeat, no-repeat;
   background-size: 8%, 8%;
 }
+
+.content-wrapper {
+    z-index: 800;
+    width: 80%;
+    max-width: 1000px;
+    margin-left: 10%;
+}
