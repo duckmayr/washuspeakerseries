@@ -7,7 +7,7 @@ As usual, the talk will take place in the Seigle Hall Conference Room (#248) on 
 The title of Monika's talk is "Purges, Truth Commissions, and Lustrations: The Long Term Consequences of Dealing with Authoritarian Legacies." Details are below:
 
 <details> 
-  <summary> Abstract </summary>
+<summary> <font color=#005f85> Abstract </font> </summary>
   
    <p>
    The transitional justice literature treats lustration and administrative purges (such as de-communization, de-baathification and de-nazification) as the same type of mechanism for dealing with the past. Indeed, all of these institutions are forms of personnel transitional justice in that they aim at eliminating from the state apparatus members and collaborators of the previous authoritarian regime.
