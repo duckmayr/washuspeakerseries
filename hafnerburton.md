@@ -7,7 +7,7 @@ As usual, the talk will take place in the Seigle Hall Conference Room (#248) on 
 The title of Emilie's talk is "Predictability versus Flexibility: Secrecy in International Investment Arbitration." Details are below:
 
 <details> 
-  <summary> Abstract </summary>
+   <summary>  <font color="#005f85"> Abstract </font> </summary>
   
    <p>
    There is heated debate over the wisdom and effect of secrecy in international negotiations. This debate has become central to the process of foreign investment arbitration because parties to disputes nearly always can choose to hide arbitral outcomes from public view. Working with a new database of disputes at the world’s largest investor-state arbitral institution, the World Bank’s International Centre for Settlement of Investment Disputes, the authors examine the incentives of firms and governments to keep the details of their disputes secret.
