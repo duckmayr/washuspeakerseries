@@ -14,3 +14,7 @@ The title of Emilie's talk is "Predictability versus Flexibility: Secrecy in Int
    </p>
    
 </details>
+
+----
+
+[Speaker Series Home](https://duckmayr.github.io/washuspeakerseries/)
