@@ -6,7 +6,7 @@ title: WUSTL Political Science Speaker Series
 
 About once per week, we host a speaker during the lunch hour (a buffet-style lunch is provided). You can find details on our scheduled talks below:
 
-# September 14 -- Monika Nalepa (University of Chicago)
+# September 14 -- Monika Nalepa (Chicago)
 
 The Department Speaker Series will continue during the Fall semester and start with a talk by Monika Nalepa from the University of Chicago. With a focus on post-communist Europe, her research interests include transitional justice, parties and legislatures, and game-theoretic approaches to comparative politics. Her first book, *Skeletons in the Closet: Transitional Justice in Post-Communist Europe* was published in the Cambridge Studies in Comparative Politics Series and received the Best Book award from the Comparative Democratization section of the APSA and the Leon Epstein Outstanding Book Award from the Political Organizations and Parties section of the APSA. She has published her research in the Journal of Comparative Politics, World Politics, Journal of Conflict Resolution, Journal of Theoretical Politics, and Decyzje. Her next book manuscript, *Parties Ascendant*, examines the development of programmatic parties in new democracies with a special focus on legislative institutions.
 
