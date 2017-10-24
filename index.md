@@ -76,3 +76,11 @@ We conceptualize adverse interactions between police and the minority communitie
 </details>
 
 <a href="https://polisci.wustl.edu/files/polisci/imce/oreybaumgartnersoroka-apsa-2017.pdf" target="_blank">Full Text</a>
+
+# October 26 -- Sharece Thrower (Vanderbilt)
+
+The Department Speaker Series will continue next week with a talk by Sharece Thrower (Vanderbilt). Sharece's research focuses on how both Congress and the courts constrain the president’s use of various policy instruments such as executive orders, signing statements, rulemaking, and regulatory review. Her scholarship has appeared in the American Journal of Political Science, the Journal of Law, Economics, and Organization, and Presidential Studies Quarterly. Currently, she is working on projects examining the following topics: how changes in legislative capacity over time influence the exercise of presidential power; the duration of executive policymaking; gubernatorial unilateral policymaking; and testing theories of delegation with a newly developed measure of statutory discretion.
+ 
+As usual, the talk will take place in the Seigle Hall Conference Room (#248) on Thursday (October 26) from 12:00pm to 1:00pm, and we will provide pizza and salad for lunch.
+
+The title of Sharece's talk is "The Constraining Power of the Purse: Executive Discretion and Legislative Appropriations".
